@@ -42,7 +42,7 @@ custom_spectrum <- function(n) {
 
 # Test function to print the generated spectrum
 test_moarcolourz <- function(n = 60, spectrum = custom_spectrum) {
-  colours <- moarcolourz(n, spectrum)
+  colours <- moarcolourz(n)
 
   barplot(rep(1, n),
           col = colours,
