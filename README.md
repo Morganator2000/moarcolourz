@@ -13,7 +13,7 @@ This way you can generate large amounts of high-contrast colours.
 
 ## Installation
 
-Easy installation of moarcolorz:
+Easy installation of moarcolourz:
 
 ``` r
 # Install from GitHub
